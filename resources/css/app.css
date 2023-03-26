@@ -1,0 +1,5 @@
+@import '../../vendor/wire-elements/modal/resources/css/modal.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
